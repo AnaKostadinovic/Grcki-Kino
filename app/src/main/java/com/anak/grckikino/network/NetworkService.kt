@@ -19,5 +19,5 @@ interface NetworkService {
         @Path("toDate") toDate: String,
         @Query("page") page: Int,
         @Query("size") size: Int
-    ): ResultData<GameData>
+    ): ResultData
 }

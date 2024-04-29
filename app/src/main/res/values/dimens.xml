@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_medium">16dp</dimen>
+
+    <dimen name="divider_line_thickness">1dp</dimen>
+    <dimen name="divider_line_padding_start">40dp</dimen>
+
+    <dimen name="border_default_thickness">1dp</dimen>
+    <dimen name="border_thick">4dp</dimen>
+    <dimen name="padding_small">4dp</dimen>
+
+    <dimen name="flag_width">50dp</dimen>
+</resources>

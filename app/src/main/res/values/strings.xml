@@ -1,3 +1,27 @@
 <resources>
     <string name="app_name">Grcki Kino</string>
+    <string name="quote">Kvota</string>
+    <string name="quote_1">3.75</string>
+    <string name="quote_2">14</string>
+    <string name="quote_3">65</string>
+    <string name="quote_4">275</string>
+    <string name="quote_5">1350</string>
+    <string name="quote_6">6500</string>
+    <string name="quote_7">25000</string>
+
+    <string name="number_of_balls">B. K.</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+
+    <string name="time_and_game">Vreme izvlacenja: %s   |   Kolo: %s</string>
+    <string name="game_name">GRCKI KINO (20/80)</string>
+    <string name="game_time">Vreme izvlacenja</string>
+    <string name="remaining_time">Preostalo za uplatu</string>
+    <string name="results_title">"Vreme izvlacenja: %s | Kolo: %s"</string>
+    <string name="total_number"> Ukupno selektovano brojeva: </string>
 </resources>

@@ -2,7 +2,7 @@ package com.anak.grckikino.models
 
 import com.google.gson.annotations.SerializedName
 
-data class ResultData<T>(
+data class ResultData(
     @SerializedName("content") val content: List<GameData>,
     @SerializedName("totalPages") val totalPages: Int,
     @SerializedName("totalElements") val totalElements: Int,
